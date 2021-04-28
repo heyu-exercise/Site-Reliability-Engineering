@@ -15,12 +15,12 @@
 - Data format
 ``` json
 {
-    id: <username>,
-    email: <email>,
-    mobile: <mobile>,
+    id: "<username>",
+    email: "<email>",
+    mobile: "<mobile>",
     position: {
-        title: <title>,
-        department: <department>
+        title: "<title>",
+        department: "<department>"
     }
 }
 ```
